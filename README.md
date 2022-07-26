@@ -1,6 +1,6 @@
 ![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML%20&%20CSS-blue?style=for-the-badge)
 ![Time taken](https://img.shields.io/badge/Time%20taken-00H%3A39M-tomato?style=for-the-badge&logo=Clockify)
-[![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)](https://62df00e63554bd17ce85502f--spectacular-biscotti-a5ab42.netlify.app/)
+[![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)](https://splendid-kitsune-a4576c.netlify.app/)
 
 # Delicious Restaurant
 
